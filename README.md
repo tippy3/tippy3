@@ -2,4 +2,4 @@
 
 <img src="./images/aws-sap.png" width="70px"><img src="./images/aws-aip.png" width="70px"><img src="./images/aws-dop.png" width="70px"><img src="./images/aws-ans.png" width="70px"><img src="./images/aws-scs.png" width="70px"><img src="./images/aws-saa.png" width="70px"><img src="./images/aws-mla.png" width="70px"><img src="./images/aws-dea.png" width="70px"><img src="./images/aws-dva.png" width="70px"><img src="./images/aws-soa.png" width="70px"><img src="./images/aws-aif.png" width="70px"><img src="./images/aws-clf.png" width="70px">
 
-<a href="https://www.credly.com/users/tippy">Digital Badges</a>
+<a href="https://www.credly.com/users/tippy">View on Credly</a>
